@@ -1,0 +1,307 @@
+html{
+    background-color: pink;
+    background-image: url(bg_main2.gif);
+    text-align: center;
+    min-width: 1300px;
+    font-family: 'helvetica';
+  /*  cursor: url(https://cdn.discordapp.com/attachments/1146142083497865428/1182367727525052546/ezgif-2-22e762fd51.gif), auto;*/
+}
+html {
+  cursor: url(cursor-images/frame_00_delay-0.09s.gif), auto;
+  -webkit-animation: cursor 4.77s infinite;
+  animation: cursor 4.77s infinite;
+}
+
+@-webkit-keyframes cursor {
+  1.8868% {cursor: url(cursor-images/frame_00_delay-0.09s.gif), auto;}
+  3.7736% {cursor: url(cursor-images/frame_01_delay-0.09s.gif), auto;}
+  5.6604% {cursor: url(cursor-images/frame_02_delay-0.09s.gif), auto;}
+  7.5472% {cursor: url(cursor-images/frame_03_delay-0.09s.gif), auto;}
+  9.434% {cursor: url(cursor-images/frame_04_delay-0.09s.gif), auto;}
+  11.3208% {cursor: url(cursor-images/frame_05_delay-0.09s.gif), auto;}
+  13.2076% {cursor: url(cursor-images/frame_06_delay-0.09s.gif), auto;}
+  15.0944% {cursor: url(cursor-images/frame_07_delay-0.09s.gif), auto;}
+  16.9812% {cursor: url(cursor-images/frame_08_delay-0.09s.gif), auto;}
+  18.868% {cursor: url(cursor-images/frame_09_delay-0.09s.gif), auto;}
+  20.7548% {cursor: url(cursor-images/frame_10_delay-0.09s.gif), auto;}
+  22.6416% {cursor: url(cursor-images/frame_11_delay-0.09s.gif), auto;}
+  24.5284% {cursor: url(cursor-images/frame_12_delay-0.09s.gif), auto;}
+  26.4152% {cursor: url(cursor-images/frame_13_delay-0.09s.gif), auto;}
+  28.302% {cursor: url(cursor-images/frame_14_delay-0.09s.gif), auto;}
+  30.1888% {cursor: url(cursor-images/frame_15_delay-0.09s.gif), auto;}
+  32.0756% {cursor: url(cursor-images/frame_16_delay-0.09s.gif), auto;}
+  33.9624% {cursor: url(cursor-images/frame_17_delay-0.09s.gif), auto;}
+  35.8492% {cursor: url(cursor-images/frame_18_delay-0.09s.gif), auto;}
+  37.736% {cursor: url(cursor-images/frame_19_delay-0.09s.gif), auto;}
+  39.6228% {cursor: url(cursor-images/frame_20_delay-0.09s.gif), auto;}
+  41.5096% {cursor: url(cursor-images/frame_21_delay-0.09s.gif), auto;}
+  45.2832% {cursor: url(cursor-images/frame_22_delay-0.09s.gif), auto;}
+  47.17% {cursor: url(cursor-images/frame_23_delay-0.09s.gif), auto;}
+  49.0568% {cursor: url(cursor-images/frame_24_delay-0.09s.gif), auto;}
+  50.9436% {cursor: url(cursor-images/frame_25_delay-0.09s.gif), auto;}
+  52.8304% {cursor: url(cursor-images/frame_26_delay-0.09s.gif), auto;}
+  54.7172% {cursor: url(cursor-images/frame_27_delay-0.09s.gif), auto;}
+  56.604% {cursor: url(cursor-images/frame_28_delay-0.09s.gif), auto;}
+  58.4908% {cursor: url(cursor-images/frame_29_delay-0.09s.gif), auto;}
+  60.3776% {cursor: url(cursor-images/frame_30_delay-0.09s.gif), auto;}
+  62.2644% {cursor: url(cursor-images/frame_31_delay-0.09s.gif), auto;}
+  64.1512% {cursor: url(cursor-images/frame_32_delay-0.09s.gif), auto;}
+  66.038% {cursor: url(cursor-images/frame_33_delay-0.09s.gif), auto;}
+  67.9248% {cursor: url(cursor-images/frame_34_delay-0.09s.gif), auto;}
+  69.8116% {cursor: url(cursor-images/frame_35_delay-0.09s.gif), auto;}
+  71.6983% {cursor: url(cursor-images/frame_36_delay-0.09s.gif), auto;}
+  73.5851% {cursor: url(cursor-images/frame_37_delay-0.09s.gif), auto;}
+  75.471% {cursor: url(cursor-images/frame_38_delay-0.09s.gif), auto;}
+  77.3587% {cursor: url(cursor-images/frame_39_delay-0.09s.gif), auto;}
+  79.2455% {cursor: url(cursor-images/frame_40_delay-0.09s.gif), auto;}
+  81.1323% {cursor: url(cursor-images/frame_41_delay-0.09s.gif), auto;}
+  83.0191% {cursor: url(cursor-images/frame_42_delay-0.09s.gif), auto;}
+  84.9059% {cursor: url(cursor-images/frame_43_delay-0.09s.gif), auto;}
+  86.7927% {cursor: url(cursor-images/frame_44_delay-0.09s.gif), auto;}
+  88.6795% {cursor: url(cursor-images/frame_45_delay-0.09s.gif), auto;}
+  90.5663% {cursor: url(cursor-images/frame_46_delay-0.09s.gif), auto;}
+  92.4531% {cursor: url(cursor-images/frame_47_delay-0.09s.gif), auto;}
+  94.339% {cursor: url(cursor-images/frame_48_delay-0.09s.gif), auto;}
+  96.2267% {cursor: url(cursor-images/frame_49_delay-0.09s.gif), auto;}
+  98.1135% {cursor: url(cursor-images/frame_50_delay-0.09s.gif), auto;}
+  100% {cursor: url(cursor-images/frame_51_delay-0.09s.gif), auto;}
+} 
+
+@keyframes cursor {
+  1.8868% {cursor: url(cursor-images/frame_00_delay-0.09s.gif), auto;}
+  3.7736% {cursor: url(cursor-images/frame_01_delay-0.09s.gif), auto;}
+  5.6604% {cursor: url(cursor-images/frame_02_delay-0.09s.gif), auto;}
+  7.5472% {cursor: url(cursor-images/frame_03_delay-0.09s.gif), auto;}
+  9.434% {cursor: url(cursor-images/frame_04_delay-0.09s.gif), auto;}
+  11.3208% {cursor: url(cursor-images/frame_05_delay-0.09s.gif), auto;}
+  13.2076% {cursor: url(cursor-images/frame_06_delay-0.09s.gif), auto;}
+  15.0944% {cursor: url(cursor-images/frame_07_delay-0.09s.gif), auto;}
+  16.9812% {cursor: url(cursor-images/frame_08_delay-0.09s.gif), auto;}
+  18.868% {cursor: url(cursor-images/frame_09_delay-0.09s.gif), auto;}
+  20.7548% {cursor: url(cursor-images/frame_10_delay-0.09s.gif), auto;}
+  22.6416% {cursor: url(cursor-images/frame_11_delay-0.09s.gif), auto;}
+  24.5284% {cursor: url(cursor-images/frame_12_delay-0.09s.gif), auto;}
+  26.4152% {cursor: url(cursor-images/frame_13_delay-0.09s.gif), auto;}
+  28.302% {cursor: url(cursor-images/frame_14_delay-0.09s.gif), auto;}
+  30.1888% {cursor: url(cursor-images/frame_15_delay-0.09s.gif), auto;}
+  32.0756% {cursor: url(cursor-images/frame_16_delay-0.09s.gif), auto;}
+  33.9624% {cursor: url(cursor-images/frame_17_delay-0.09s.gif), auto;}
+  35.8492% {cursor: url(cursor-images/frame_18_delay-0.09s.gif), auto;}
+  37.736% {cursor: url(cursor-images/frame_19_delay-0.09s.gif), auto;}
+  39.6228% {cursor: url(cursor-images/frame_20_delay-0.09s.gif), auto;}
+  41.5096% {cursor: url(cursor-images/frame_21_delay-0.09s.gif), auto;}
+  45.2832% {cursor: url(cursor-images/frame_22_delay-0.09s.gif), auto;}
+  47.17% {cursor: url(cursor-images/frame_23_delay-0.09s.gif), auto;}
+  49.0568% {cursor: url(cursor-images/frame_24_delay-0.09s.gif), auto;}
+  50.9436% {cursor: url(cursor-images/frame_25_delay-0.09s.gif), auto;}
+  52.8304% {cursor: url(cursor-images/frame_26_delay-0.09s.gif), auto;}
+  54.7172% {cursor: url(cursor-images/frame_27_delay-0.09s.gif), auto;}
+  56.604% {cursor: url(cursor-images/frame_28_delay-0.09s.gif), auto;}
+  58.4908% {cursor: url(cursor-images/frame_29_delay-0.09s.gif), auto;}
+  60.3776% {cursor: url(cursor-images/frame_30_delay-0.09s.gif), auto;}
+  62.2644% {cursor: url(cursor-images/frame_31_delay-0.09s.gif), auto;}
+  64.1512% {cursor: url(cursor-images/frame_32_delay-0.09s.gif), auto;}
+  66.038% {cursor: url(cursor-images/frame_33_delay-0.09s.gif), auto;}
+  67.9248% {cursor: url(cursor-images/frame_34_delay-0.09s.gif), auto;}
+  69.8116% {cursor: url(cursor-images/frame_35_delay-0.09s.gif), auto;}
+  71.6983% {cursor: url(cursor-images/frame_36_delay-0.09s.gif), auto;}
+  73.5851% {cursor: url(cursor-images/frame_37_delay-0.09s.gif), auto;}
+  75.471% {cursor: url(cursor-images/frame_38_delay-0.09s.gif), auto;}
+  77.3587% {cursor: url(cursor-images/frame_39_delay-0.09s.gif), auto;}
+  79.2455% {cursor: url(cursor-images/frame_40_delay-0.09s.gif), auto;}
+  81.1323% {cursor: url(cursor-images/frame_41_delay-0.09s.gif), auto;}
+  83.0191% {cursor: url(cursor-images/frame_42_delay-0.09s.gif), auto;}
+  84.9059% {cursor: url(cursor-images/frame_43_delay-0.09s.gif), auto;}
+  86.7927% {cursor: url(cursor-images/frame_44_delay-0.09s.gif), auto;}
+  88.6795% {cursor: url(cursor-images/frame_45_delay-0.09s.gif), auto;}
+  90.5663% {cursor: url(cursor-images/frame_46_delay-0.09s.gif), auto;}
+  92.4531% {cursor: url(cursor-images/frame_47_delay-0.09s.gif), auto;}
+  94.339% {cursor: url(cursor-images/frame_48_delay-0.09s.gif), auto;}
+  96.2267% {cursor: url(cursor-images/frame_49_delay-0.09s.gif), auto;}
+  98.1135% {cursor: url(cursor-images/frame_50_delay-0.09s.gif), auto;}
+  100% {cursor: url(cursor-images/frame_51_delay-0.09s.gif), auto;}
+}
+
+
+#titlebox{
+    text-align: center;
+    color: white;
+}
+
+.centerbox{
+    background-color: black;
+    text-align: center;
+    color: rgb(252, 216, 222);
+    margin: auto;
+    width: 60%;
+    min-width: 1000px;
+    padding:5%;
+    border-radius: 1%;
+}
+.listnav{
+    list-style: none;
+
+}
+@keyframes textShadow {
+    0% {
+      text-shadow: 0.4389924193300864px 0 1px rgba(0,30,255,0.5), -0.4389924193300864px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    5% {
+      text-shadow: 2.7928974010788217px 0 1px rgba(0,30,255,0.5), -2.7928974010788217px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    10% {
+      text-shadow: 0.02956275843481219px 0 1px rgba(0,30,255,0.5), -0.02956275843481219px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    15% {
+      text-shadow: 0.40218538552878136px 0 1px rgba(0,30,255,0.5), -0.40218538552878136px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    20% {
+      text-shadow: 3.4794037899852017px 0 1px rgba(0,30,255,0.5), -3.4794037899852017px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    25% {
+      text-shadow: 1.6125630401149584px 0 1px rgba(0,30,255,0.5), -1.6125630401149584px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    30% {
+      text-shadow: 0.7015590085143956px 0 1px rgba(0,30,255,0.5), -0.7015590085143956px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    35% {
+      text-shadow: 3.896914047650351px 0 1px rgba(0,30,255,0.5), -3.896914047650351px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    40% {
+      text-shadow: 3.870905614848819px 0 1px rgba(0,30,255,0.5), -3.870905614848819px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    45% {
+      text-shadow: 2.231056963361899px 0 1px rgba(0,30,255,0.5), -2.231056963361899px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    50% {
+      text-shadow: 0.08084290417898504px 0 1px rgba(0,30,255,0.5), -0.08084290417898504px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    55% {
+      text-shadow: 2.3758461067427543px 0 1px rgba(0,30,255,0.5), -2.3758461067427543px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    60% {
+      text-shadow: 2.202193051050636px 0 1px rgba(0,30,255,0.5), -2.202193051050636px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    65% {
+      text-shadow: 2.8638780614874975px 0 1px rgba(0,30,255,0.5), -2.8638780614874975px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    70% {
+      text-shadow: 0.48874025155497314px 0 1px rgba(0,30,255,0.5), -0.48874025155497314px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    75% {
+      text-shadow: 1.8948491305757957px 0 1px rgba(0,30,255,0.5), -1.8948491305757957px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    80% {
+      text-shadow: 0.0833037308038857px 0 1px rgba(0,30,255,0.5), -0.0833037308038857px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    85% {
+      text-shadow: 0.09769827255241735px 0 1px rgba(0,30,255,0.5), -0.09769827255241735px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    90% {
+      text-shadow: 3.443339761481782px 0 1px rgba(0,30,255,0.5), -3.443339761481782px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    95% {
+      text-shadow: 2.1841838852799786px 0 1px rgba(0,30,255,0.5), -2.1841838852799786px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+    100% {
+      text-shadow: 2.6208764473832513px 0 1px rgba(0,30,255,0.5), -2.6208764473832513px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+    }
+  }
+  .crt {
+    animation: textShadow 1.6s infinite;
+    color: rgb(252, 216, 222);
+  }
+  
+  .navlist{
+    margin: 90px;
+
+
+  }
+
+  .listel{
+    margin: 21px;
+    padding: 10px;
+
+
+  }
+
+  .listel a{
+    font-size: 30px;
+    text-decoration: none;
+    letter-spacing: 7px;
+    transition: 0.2s;
+  }
+  .listel a:hover{
+    letter-spacing: 11px;
+    transition: 0.2s;
+  
+
+  }
+
+  .listel a:visited{
+    color: rgb(252, 216, 222);
+
+  }
+
+  a {
+    cursor: url(link-cursor/frame_0_delay-0.15s.gif), auto;
+    -webkit-animation: cursor2 1.30s infinite;
+    animation: cursor2 1.30s infinite;
+  }
+
+  @-webkit-keyframes cursor2 {
+    11% {cursor: url(link-cursor/frame_0_delay-0.15s.gif), auto;}
+    22% {cursor: url(link-cursor/frame_1_delay-0.15s.gif), auto;}
+    33% {cursor: url(link-cursor/frame_2_delay-0.15s.gif), auto;}
+    44% {cursor: url(link-cursor/frame_3_delay-0.15s.gif), auto;}
+    55% {cursor: url(link-cursor/frame_4_delay-0.15s.gif), auto;}
+    66% {cursor: url(link-cursor/frame_5_delay-0.15s.gif), auto;}
+    77% {cursor: url(link-cursor/frame_6_delay-0.15s.gif), auto;}
+    88% {cursor: url(link-cursor/frame_7_delay-0.15s.gif), auto;}
+    100% {cursor: url(link-cursor/frame_8_delay-0.15s.gif), auto;}
+  }
+  
+  @keyframes cursor2 {
+    11% {cursor: url(link-cursor/frame_0_delay-0.15s.gif), auto;}
+    22% {cursor: url(link-cursor/frame_1_delay-0.15s.gif), auto;}
+    33% {cursor: url(link-cursor/frame_2_delay-0.15s.gif), auto;}
+    44% {cursor: url(link-cursor/frame_3_delay-0.15s.gif), auto;}
+    55% {cursor: url(link-cursor/frame_4_delay-0.15s.gif), auto;}
+    66% {cursor: url(link-cursor/frame_5_delay-0.15s.gif), auto;}
+    77% {cursor: url(link-cursor/frame_6_delay-0.15s.gif), auto;}
+    88% {cursor: url(link-cursor/frame_7_delay-0.15s.gif), auto;}
+    100% {cursor: url(link-cursor/frame_8_delay-0.15s.gif), auto;}
+  }
+  .center22 {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 21px;
+  }
+
+  .button1 {
+    margin:auto;
+    margin-top: 100px;
+    background-color: rgb(196, 161, 167) ;
+    color: black;
+    width: 129px;
+    border-radius: 7%;
+    height: 73px;
+    line-height: 73px;
+   transition: 0.5s;
+  }
+  .button1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 29px;
+    width: 129px;
+  }
+  .button1:hover {
+    border-radius: 10%;
+    background-color: pink;
+    transition: 0.5s;
+
+  }
+  .paragraph {
+    letter-spacing: 2px;
+    padding:7%
+  }
