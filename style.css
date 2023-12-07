@@ -230,6 +230,7 @@ html {
     text-decoration: none;
     letter-spacing: 7px;
     transition: 0.2s;
+    color: rgb(252, 216, 222);
   }
   .listel a:hover{
     letter-spacing: 11px;
