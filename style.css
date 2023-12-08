@@ -308,3 +308,15 @@ html {
     letter-spacing: 2px;
     padding:7%
   }
+
+  #pgpklink{
+    color: rgb(196, 161, 167) ;
+    font-size: 19px;
+    transition: 0.1s;
+  }
+  #pgpklink:hover{
+    letter-spacing: 2px;
+    transition: 0.1s;
+    color: rgb(255, 255, 255) ;
+  }
+
