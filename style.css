@@ -136,7 +136,7 @@ html {
     width: 60%;
     min-width: 1000px;
     padding:5%;
-    border-radius: 1%;
+    /*border-radius: 1%;*/
     box-shadow: 2px 2px 5px black;
 }
 .listnav{
