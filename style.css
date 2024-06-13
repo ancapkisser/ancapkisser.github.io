@@ -2,7 +2,7 @@ html{
     background-color: pink;
     background-image: url(pink-bg-vlight.gif);
     text-align: center;
-    min-width: 1300px;
+    min-width: 999px;
     font-family: 'helvetica';
   /*  cursor: url(https://cdn.discordapp.com/attachments/1146142083497865428/1182367727525052546/ezgif-2-22e762fd51.gif), auto;*/
 }
@@ -130,11 +130,12 @@ html {
 
 .centerbox{
     background-color: black;
+    opacity: 93%;
     text-align: center;
     color: rgb(252, 216, 222);
     margin: auto;
-    width: 60%;
-    min-width: 1000px;
+    width: 45%;
+    min-width: 690px;
     padding:5%;
     /*border-radius: 1%;*/
     box-shadow: 2px 2px 5px black;
