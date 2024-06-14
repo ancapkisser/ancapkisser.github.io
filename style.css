@@ -238,7 +238,7 @@ html {
   .listel a:hover{
     letter-spacing: 11px;
     transition: 0.2s;
-    animation: textShadow 1.6s infinite;
+    animation: textShadow 1.6s infinite, cursor2 1.30s infinite;
 
   }
 
